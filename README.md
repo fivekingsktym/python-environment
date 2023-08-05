@@ -1,6 +1,6 @@
 # Different types of python-environment
 
-## Dedicated Environments
+## Project Based Environments[Env files are stored in project folder]
 
 ### 1: venv -> Python Pre-installed environment
 
@@ -40,10 +40,7 @@ deactivate
 ```
 
 
-
-
-
-## Global Environment
+## Package Based Environment[Env files are stored in package installed folder]
 
 ### 3: virtualenvwrapper-win Environment
 
